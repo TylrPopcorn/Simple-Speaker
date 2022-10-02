@@ -19,8 +19,5 @@ local MUSIC = "SOUND_ID_HERE" <--- Put your sound ID inside this variable locate
 <img width="1015" alt="Screen Shot 2022-10-02 at 10 33 30 AM" src="https://user-images.githubusercontent.com/104395322/193459604-d5559ee3-9d5b-4512-b303-9ca9b44bd0a0.png">
 
 
-VIDEO example: https://youtu.be/37dcqcKRhQw
-
-
 https://user-images.githubusercontent.com/104395322/193462410-43abdab4-3b71-4eb6-9135-a818bb521691.mp4
 
