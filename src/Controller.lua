@@ -92,7 +92,7 @@ while true do
 	local numbChosen = math.random(1,2) --choose a  random number
 
 	if numbChosen == 2 then --if the numbeer is "2"
-		--		if bumper.Music.PlaybackLoudness < 170 then
+	--if bumper.Music.PlaybackLoudness < 170 then
 		bumper.Size = Vector3.new(bumper.Size.X,bumper.Music.PlaybackLoudness*0.004,bumper.Size.Z) --make the bumper bump 
 		wait()	
 		local tween = TweenService:Create(bumper, TweenInfo.new(0.175), goal) --Create a smooth transition
@@ -112,7 +112,7 @@ while true do
 				task.wait(0.2) --Breathe and move to the next item.
 			end
 		end
-		--	end	
+	--end	
 	end	
 
 end
