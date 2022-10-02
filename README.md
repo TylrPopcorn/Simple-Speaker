@@ -20,3 +20,7 @@ local MUSIC = "SOUND_ID_HERE" <--- Put your sound ID inside this variable locate
 
 
 VIDEO example: https://youtu.be/37dcqcKRhQw
+
+
+https://user-images.githubusercontent.com/104395322/193462410-43abdab4-3b71-4eb6-9135-a818bb521691.mp4
+
