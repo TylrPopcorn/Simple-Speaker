@@ -4,7 +4,7 @@ A ROBLOX Game Development creation made by me.
 ----
 **Getting Started**
 
-Use this in your game to provide cool effects for users to view and listen too.
+This model simply provides a cool effect that can be used in your game. It simulates a speaker with similar functions like a real life speaker. Depending on bass, the bumper will move along to the bass. The speaker itself has a cool light effect that is played while sound is active as well.
 
 Download the model and open up a new empty ROBLOX studio experience. Insert the speaker model into the experience and change the Sound ID located inside the Controller Script to a Sound ID of your choice. After that, hit play and watch in awe.
 
