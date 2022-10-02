@@ -1,6 +1,7 @@
 # Simple-Speaker
 A ROBLOX Game Development creation made by me.
 
+Use this in your game to provide cool effects for users to view and listen too.
 ----
 **Getting Started**
 
